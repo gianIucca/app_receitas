@@ -1,4 +1,4 @@
-![screen](https://github.com/gianIucca/clone_whatsapp/blob/main/whatsapp-frontend/public/screen.png)
+![screen](https://github.com/gianIucca/app_receitas/blob/main/public/tela.gif)
 
 # Getting Started with Create React App
 
