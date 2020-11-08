@@ -1,3 +1,5 @@
+Projeto desenvolvido para testar o consumo de dados de uma API de receitas(https://www.edamam.com).
+
 ![screen](https://github.com/gianIucca/app_receitas/blob/main/public/tela.gif)
 
 # Getting Started with Create React App
