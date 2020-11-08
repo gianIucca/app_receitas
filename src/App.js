@@ -4,8 +4,9 @@ import Recipe from './Recipe';
 
 const App = () => {
 
-  const APP_ID = '90752a3d';
-  const APP_KEY = 'b3dc097a60f3c6538bead7b9a1d07f9d';
+  //Coloque sua própria key do edamam aqui
+  const APP_ID = '';
+  const APP_KEY = '';
 
   const [recipes, setRecipes] = useState([]);
 
